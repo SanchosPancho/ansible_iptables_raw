@@ -1,6 +1,9 @@
 # iptables_raw
 Module for Ansible which makes it easy to manage `iptables` and it keeps state.
 
+### FIX
+This version of module was fixed for nft backend  (Ubuntu 20+, Debian 10+)
+
 ### Documentation
  * [Module documentation](https://nordeus.github.io/ansible-custom-modules/iptables_raw.html)
  * [Managing Iptables with Ansible the Easy Way](https://engineering.nordeus.com/managing-iptables-with-ansible-the-easy-way/) blog post
